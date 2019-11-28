@@ -6,28 +6,21 @@ import java.util.Scanner;
 
 public class calculator_BASIC {
 	
-	private static final boolean True = false;
-	private static final boolean False = false;
-
-	// 3 * 5
-	public static void main(String[] args) {
+	public static int evaluate(String expression) {
 		
-		boolean error = False;
+		boolean error = false;
 		int result = 0;
-		
-		Scanner sreader = new Scanner(System.in);
-		String userStr = sreader.nextLine();
 	
-		String[] tokens = userStr.split(" ");
+		String[] tokens = expression.split(" ");
 		String first_expression = tokens[0];
 		String operand = tokens[1];
 		String second_expression = tokens[2];
 		
-		System.err.println(userStr);
+		System.err.println(expression);
 		
 		if (tokens.length != 3) {
-			System.out.print(" Invalid expression: String contains\n" + userStr.length());
-			error = True;
+			System.out.print(" Invalid expression: String contains\n" + expression.length());
+			error = true;
 		}
 		
 		if (error == false) {
@@ -40,11 +33,27 @@ public class calculator_BASIC {
 			else if(operand.equals("/"))
 				result = Integer.parseInt(first_expression) / Integer.parseInt(second_expression);
 			else 
-				error = True;			
+				error = true;			
 		}
 		
-		if (error == False)
-			System.out.print(result);
+		if (error == true)
+			throw new IllegalArgumentException(expression);
+		else {
+			return result;
+		}
+				
+	} // main()
+
+	// 3 * 5
+	public static void main(String[] args) {
+		
+		int result = 0;
+		
+		Scanner sreader = new Scanner(System.in);
+		String userStr = sreader.nextLine();
+	
+		result = calculator_BASIC.evaluate(userStr);
+		System.out.println(result);
 				
 	} // main()
 	
