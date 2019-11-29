@@ -14,12 +14,12 @@ import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
 
 @RunWith(Parameterized.class)
-public class CalculatorTest {
+public class CalculatorTest1 {
 	
 	private String expr;
 	private int expectedResult;
 	
-	public CalculatorTest(String expr, int result) {
+	public CalculatorTest1(String expr, int result) {
 		this.expr = expr;
 		this.expectedResult = result;
 	}
