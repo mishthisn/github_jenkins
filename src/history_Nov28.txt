@@ -1,0 +1,500 @@
+  141  echo $PYTHONPATH
+  142  pwd
+  143  cd ~/Documents/python/robot/
+  144  ls -lrt
+  145  cd *
+  146  ls -lrt
+  147  cd login_tests/
+  148  ls -lrt
+  149  which robot
+  150  pwd
+  151  ls -lrt
+  152  robot valid_login.robot 
+  153  vi ~/.bash_profile 
+  154  exit
+  155  python
+  156  pip
+  157  echo $PATH
+  158  which python
+  159  python get-pip.py
+  160  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+  161  pip
+  162  python get-pip.py
+  163   sudo pip3 install --upgrade pip
+  164  pip
+  165  python get-pip.py
+  166  pip3 --version
+  167   sudo pip3 install --upgrade pip
+  168  pip list
+  169  pip3
+  170  pip3 -v
+  171  pip3 --version
+  172  pip3 install selenium
+  173  pip3 install pytest
+  174  pip3 install pytest ordering
+  175  pip3 install pytest-html
+  176  pip3 install pyyaml
+  177  pip install virtualenv
+  178  pip3 install virtualenv
+  179  python3 -m venv venv
+  180   # Path to chromedriver and geckodriver
+  181  export PATH="/lib:${PATH}"
+  182  export PYTHONPATH=$PYTHONPATH:.
+  183  source ~/.bashrc
+  184  source ~/.bashrc
+  185  nano ~/.bash_profile
+  186  nano ~/.bash_profile
+  187  pip3
+  188  python -v
+  189  python -version
+  190  python -v
+  191  python --version
+  192  echo $PATH
+  193  which python
+  194  python3 --version
+  195  python3 -m pip install robotframwork
+  196  python3 -m pip install robotframework
+  197  clear
+  198  cd ~/.ssh/config
+  199  cd ~/.ssh
+  200  ls -lrt
+  201  ssh-keygen 
+  202  cd ~/.ssh
+  203  ls -lrt
+  204  ls -lrtd .
+  205  pwd
+  206  vi id_rsa.pub 
+  207  pwd
+  208  cd ..
+  209  cd Documents/
+  210  l s-lrt
+  211  ls -lrt
+  212  mkdir python
+  213  cd python/
+  214  mkdir robot
+  215  cd robot/
+  216  git clone git@github.com:robotframework/WebDemo.git
+  217  ls -lrt
+  218  cd WebDemo/
+  219  git status
+  220  ls -lrt
+  221  pwd
+  222  ls -lrt
+  223  pwd
+  224  cd ..
+  225  ls -lrt
+  226  cd WebDemo/
+  227  python3 demoapp/server.py 
+  228  ls -lrt
+  229  pwd
+  230  ls -lrtR
+  231  cd demoapp
+  232  python3 server.py 
+  233  cd ..
+  234  python3 demoapp/server.py 
+  235  pip install robotframework-seleniumlibrary
+  236  python3 -m pip install robotframework-seleniumlibrary
+  237  python3 demoapp/server.py 
+  238  exit
+  239  echo $PATH
+  240  pwd
+  241  ls
+  242  cd documents
+  243  ls
+  244  cd Python_automation_4thJan2019
+  245  ls
+  246  cd BL
+  247  ls
+  248  ls
+  249  cd ..
+  250  ls
+  251  cd..
+  252  ls
+  253  cd
+  254  ls
+  255  cd documents
+  256  ls
+  257  ls -lrt
+  258  ls
+  259  pwd
+  260  ls
+  261  cd sa
+  262  cd Python_automation_4thJan2019/
+  263  ls
+  264  cd sa
+  265  ls
+  266  cd pages
+  267  ls
+  268  find . -login_t.py
+  269  find . -name login_t.py
+  270  cd ..
+  271  ;s
+  272  ls
+  273  find . -name login_t.py
+  274  find . login_t.py
+  275  exit
+  276  pwd
+  277  echo $PATH
+  278  which geckodriver
+  279  ls -lrt /Applications/geckodriver
+  280  vi .bash_profile 
+  281  exit
+  282  exit
+  283  pwd
+  284  ls -lrt
+  285  cd WEb
+  286  cd WebDemo/
+  287  ls -lrt
+  288  cd login_tests/
+  289  ls -lrt
+  290  robot valid_login.robot 
+  291  pwd
+  292  ls -lrt
+  293  ls -lrt
+  294  pwd
+  295  cd ..
+  296  ls -lrt
+  297  ls -lrt
+  298  cd ..
+  299  ls -lrt
+  300  ls -lrt
+  301  pwd
+  302  cd ../
+  303  ls -lrt
+  304  ls -lrt
+  305  pwd
+  306  cd ..
+  307  mkdir tvl
+  308  cd tvl
+  309  ls -lrt
+  310  mkdir convert_isin
+  311  cd convert_isin/
+  312  ls -lrt ~/Downloads/
+  313  mv ~/Downloads/import_isin_* .
+  314  mv ~/Downloads/get_ticker* .
+  315  ls -lrt
+  316  vi get_ticker_from_isin.sh 
+  317  vi get_ticker.py
+  318  python3 -m pip install requests
+  319  vi README
+  320  vi get_ticker.py
+  321  vi get_ticker.*
+  322  python get_ticker.py
+  323  python3 get_ticker.py
+  324  vi get_ticker.py
+  325  pyls -lrt
+  326  ls -lrt
+  327  vi import_isin_30.csv 
+  328  python get_ticker.py US0378331005
+  329  python3 get_ticker.py US0378331005
+  330  vi get_ticker.py
+  331  python3 get_ticker.py US0378331005
+  332  vi get_ticker.py
+  333  python3 get_ticker.py US0378331005
+  334  vi get_ticker.py
+  335  python3 get_ticker.py US0378331005
+  336  vi get_ticker.py
+  337  python3 get_ticker.py US0378331005
+  338  vi get_ticker.py
+  339  python3 get_ticker.py US0378331005
+  340  vi get_ticker.py
+  341  python3 get_ticker.py US0378331005
+  342  vi get_ticker.py
+  343  python3 get_ticker.py US0378331005
+  344  vi get_ticker.py
+  345  vi get_ticker.*
+  346  vi get_ticker.*
+  347  python3 get_ticker.py US0378331005
+  348  vi get_ticker.*
+  349  python3 get_ticker.py US0378331005
+  350  vi get_ticker.py
+  351  python3 get_ticker.py US0378331005
+  352  vi get_ticker.py
+  353  python3 get_ticker.py US0378331005
+  354  vi get_ticker.py
+  355  python3 get_ticker.py US0378331005
+  356  vi get_ticker.py
+  357  vi get_ticker.py
+  358  python3 get_ticker.py US0378331005
+  359  python3 get_ticker.py US0378331005
+  360  vi get_ticker.py 
+  361  python3 get_ticker.py US0378331005
+  362  ls -lrt
+  363  cp get_ticker.py get_ticker_example.py
+  364  vi get_ticker_from_csv.py
+  365  python3 get_ticker_from_csv.py import_isin_30.csv
+  366  vi get_ticker_from_csv.py
+  367  chmod +x get_ticker_from_csv.py 
+  368  ./get_ticker_from_csv.py 
+  369  vi get_ticker_from_csv.py
+  370  ./get_ticker_from_csv.py 
+  371  vi get_ticker_from_csv.py
+  372  ./get_ticker_from_csv.py 
+  373  ./get_ticker_from_csv.py import_isin_30.csv
+  374  vi get_ticker_from_csv.py
+  375  ./get_ticker_from_csv.py import_isin_30.csv
+  376  vi get_ticker_from_csv.py
+  377  ./get_ticker_from_csv.py import_isin_30.csv
+  378  vi get_ticker_from_csv.py
+  379  ./get_ticker_from_csv.py import_isin_30.csv
+  380  vi get_ticker_from_csv.py
+  381  ls -lrt
+  382  vi get_ticker.py
+  383  vi get_ticker_from_csv.py
+  384  ./get_ticker_from_csv.py import_isin_30.csv
+  385  vi get_ticker_from_csv.py
+  386  ./get_ticker_from_csv.py import_isin_30.csv
+  387  vi get_ticker_from_csv.py
+  388  ./get_ticker_from_csv.py import_isin_30.csv
+  389  vi get_ticker_from_csv.py
+  390  clear
+  391  ./get_ticker_from_csv.py import_isin_30.csv
+  392  clear
+  393  ./get_ticker_from_csv.py import_isin_30.csv
+  394  ls -rt
+  395  ./get_ticker_from_csv.py import_isin_501.csv 
+  396  ls
+  397  python3 --version
+  398  print("hi")
+  399  python3
+  400  python3
+  401  exit
+  402  which geckodriver
+  403  cd ~/Documents/python/robot/
+  404  ls -lrt
+  405  python3 WebDemo/demoapp/server.py 
+  406  exit
+  407  find . -name python3sessions
+  408  find . -name "python3sessions"
+  409  find . -name Python3Sessions
+  410  cd ./PycharmProjects/Python3Sessions
+  411  ls
+  412  cd venv
+  413  ls
+  414  pwd
+  415  pwd
+  416  pwd
+  417  cd Documents/
+  418  ls -lrt
+  419  mkdir java_api_server
+  420  cd java_api_server/
+  421  ls -lrt
+  422  maven
+  423  vi .bashrc
+  424  vi ~/.bashrc
+  425  exit
+  426  echo $PATH
+  427  vi ~/.bash_profile 
+  428  exit
+  429  pwd
+  430  ls -art
+  431  cd Naveen_automation
+  432  mkdir Naveen_automation
+  433  cd Naveen_automation/
+  434  git init
+  435  ls -art
+  436  vi sample1.txt
+  437  vi sample1.txt
+  438  cat sample1.txt | cut -d \; -f 2 > output.txt
+  439  cat sample1.txt
+  440  Linux=(${Linux:0:$x) ${Linux[@]:$(($x + 1))})
+  441  ls nonex | grep "No such" > ot.txt
+  442  vi ot.txt 
+  443  vi t.sh
+  444  chmod +x t.sh
+  445  ./t.sh
+  446  javac
+  447  pwd
+  448  jobs
+  449  vi vowels_op.csv
+  450  vi vowels_op.csv
+  451  vi vowels_op.csv 
+  452  tr -d '[aeiouAEIOU]' vowels_op.csv 
+  453  tr -d '[aeiouAEIOU]' < vowels_op.csv 
+  454  clear
+  455  tr -d '[aeiouAEIOU]' < vowels_op.csv 
+  456  vi vowels_op.csv
+  457  tr -d '[aeiouAEIOU]' < vowels_op.csv > remove_vowels.csv
+  458  vi remove_vowels.csv
+  459  pwd
+  460  PD
+  461  cd eclipse-workspace/
+  462  ls -lrt
+  463  cd unix_parse_files/
+  464  ls -lrt
+  465  git init
+  466  pwd
+  467  git add .
+  468  git status
+  469  git commit -m "adding basic calculator file"
+  470  git status
+  471  git remote add origin "https://github.com/mishthisn/github_jenkins.git"
+  472  git push -u origin master
+  473  git remote add origin https://github.com/mishthisn/github_jenkins.git
+  474  git push -u origin master
+  475  git remote -v
+  476  git log
+  477  git push origin master
+  478  git push origin master
+  479  git config --help
+  480  git config --global user.name mishthisn
+  481  git push origin master
+  482  git commit --amend --author="mishthisn <mishthisn@gmail.com>”
+  483  git commit --amend --author="mishthisn <mishthisn@gmail.com>"
+  484  git push origin master
+  485  git log
+  486  id
+  487  git -d push origin master
+  488  git push -v origin master
+  489  git push --verbose origin master
+  490  git config
+  491  git config --get-all
+  492  git config --global --get-all
+  493  git config --global -l
+  494  git config --system -l
+  495  git push origin master
+  496  git push -u origin master
+  497  cd /Users/shamisn/eclipse-workspace/csv-to-json
+  498  ls -lrt
+  499  vi db_dump.csv
+  500  docket pull mysql
+  501  docker pull mysql
+  502  docker image ls
+  503  docker run d435eee2caa5
+  504  docker run -e MYSQL_ALLOW_EMPTY_PASSWORD d435eee2caa5
+  505  docker run -E MYSQL_ALLOW_EMPTY_PASSWORD d435eee2caa5
+  506  docker run -e MYSQL_ALLOW_EMPTY_PASSWORD=1 d435eee2caa5
+  507  docker run -d -e MYSQL_ALLOW_EMPTY_PASSWORD=1 d435eee2caa5
+  508  docker ps
+  509  docker exec -it 16d42e459cef bash
+  510  mysql
+  511  docker ps
+  512  telnet
+  513  brew install mysql
+  514  mysql
+  515  pwd
+  516  cd ..
+  517  ls -lrt
+  518  cd unix_parse_files/
+  519  ls -lrt
+  520  git status
+  521  git status
+  522  ls -rt
+  523  ls -rlt
+  524  cd src/
+  525  ls -lrt
+  526  cd main/
+  527  l -lrt
+  528  ls -lrt
+  529  cd java/
+  530  ls -lrt
+  531  cd *
+  532  ls -lrt
+  533  vi calculator_BASIC.java 
+  534  git status
+  535  git add calculator_BASIC.java
+  536  git commit 
+  537  git push origin master
+  538  curl -XPOST http://ec2-18-223-185-108.us-east-2.compute.amazonaws.com:8080/github-webhook/ 
+  539  vi calculator_BASIC.java 
+  540  git add calculator_BASIC.java
+  541  git commit 
+  542  git push origin master
+  543  mvn test
+  544  mvn clean install
+  545  pwd
+  546  ls lrt
+  547  ls -lrt
+  548  pwd
+  549  cd ../../
+  550  ls -lrt
+  551  cd ..
+  552  ls -lrt
+  553  cd ..
+  554  ls -lrt
+  555  mvn clean install
+  556  ls -lrt
+  557  pwd
+  558  which mvn
+  559  mvn clean install
+  560  alias mvn
+  561  mvn clean install
+  562  mvn test
+  563  mvn test
+  564  mvn clean test
+  565  mvn clean test
+  566  pwd
+  567  ls -lrt
+  568  ls -lrt
+  569  cd src/main/
+  570  ls -lrt
+  571  cd java/
+  572  ls -lrt
+  573  cd ../../
+  574  pwd
+  575  test
+  576  ls -lrt
+  577  cd test/
+  578  ls -lrt
+  579  cd java/
+  580  ls -lrt
+  581  cd *
+  582  ls -lrt
+  583  cd ../../
+  584  ls -lrt
+  585  cd ..
+  586  ls- lr
+  587  ts -lrt
+  588  ls -lrt
+  589  cd ..
+  590  ls -lrt
+  591  mvn clean install
+  592  mvn test
+  593  mvn clean test
+  594  mvn -X clean test
+  595  mvn clean test
+  596  mvn -X clean test > out
+  597  vi out
+  598  mvn clean test
+  599  mvn clean test
+  600  mvn clean test
+  601  mvn clean test
+  602  git status
+  603  mvn test
+  604  clear
+  605  git status
+  606  vi out
+  607  rm out
+  608  git status
+  609  vi .gitignore
+  610  git status
+  611  git add pom.xml src/main/java/unix_parse_files/calculator_BASIC.java target/classes/unix_parse_files/calculator_BASIC.class src/test/
+  612  git add -f pom.xml src/main/java/unix_parse_files/calculator_BASIC.java target/classes/unix_parse_files/calculator_BASIC.class src/test/
+  613  git status
+  614  git log
+  615  git status
+  616  git commit -m "Added JUnit Tests"
+  617  git status
+  618  git push origin master
+  619  git status
+  620  git diff src/test/java/unix_parse_files/CalculatorTest.java
+  621  git add src/test/java/unix_parse_files/CalculatorTest.java
+  622  git status
+  623  git commit -m "Added multiplication test"
+  624  git push origin master
+  625  cd user
+  626  cd /Users/shamisn/eclipse-workspace/unix_parse_files/src/test/java/unix_parse_files/CalculatorTest.java
+  627  cd /Users/shamisn/eclipse-workspace/unix_parse_files/src/test/java/unix_parse_files
+  628  ls
+  629  cd /Users/shamisn/eclipse-workspace/unix_parse_files/src
+  630  git status
+  631  git checkout -b add_score
+  632  git status
+  633* 
+  634  git status
+  635  cd /Users/shamisn/eclipse-workspace/unix_parse_files/src/test/java/unix_parse_files/CalculatorTest.java
+  636  git add
+  637  git status
+  638  pwd
+  639  git add CalculatorTest1.java
+  640  history > history_Nov28.txt
